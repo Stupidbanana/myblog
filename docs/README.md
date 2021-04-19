@@ -2,7 +2,9 @@
 
 > An awesome project.
 > ```java
-> public static void main(String[] args){
+> public class a{
+>     public static void main(String[] args){
+>     }
 > }
 > ```
 > ```javascript
